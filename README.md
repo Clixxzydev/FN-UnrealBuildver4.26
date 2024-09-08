@@ -21,3 +21,4 @@ After that extract the "engine.zip" file from releases, and make sure to replace
 5. Load the project into Visual Studio by double-clicking on the UE4.sln file. Set your solution configuration to Development Editor and your solution platform to Win64, then right click on the UE4 target and select Build. It may take anywhere between 10 and 40 minutes to finish compiling, depending on your system specs.
 
 6. After compiling finishes, you can load the editor from Visual Studio by setting your startup project to UE4 and pressing F5 to debug.
+
